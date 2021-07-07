@@ -1,0 +1,28 @@
+body {
+    background-image: url(https://wallpaperchat.com/walls/full/f/d/d/976539.jpg);
+    height: 250px;
+    width: 85%;
+  }
+
+form {
+    text-align: center;
+    color: rgb(158 25 25);
+}
+
+h1 {
+    text-align: center;
+    color: rgb(158 25 25);
+}
+
+.button {
+    background-color: rgb(158 25 25);
+    font-size: 20px;
+    border-radius: 12px;
+    transition-duration: 0.4s;
+}
+
+.button:hover {
+    background-color: rgb(158 25 25);
+    color: white;
+}
+
