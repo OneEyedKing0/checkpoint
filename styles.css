@@ -1,6 +1,7 @@
 nav {
     text-align: center;
     display: inline;
+    font-family: 'Roboto', sans-serif;
 }
 
 ul {
@@ -39,49 +40,15 @@ li a:hover {
 p {
     color: white;
     font-weight: bold;
+    font-family: 'Roboto', sans-serif;
 }
 
 h1 {
     text-align: center;
     color: rgb(158, 25, 25);
-    
+    font-family: 'Roboto', sans-serif;
 }
 section {
     color: rgb(158, 25, 25);
 
-}
-
-#navlist {
-  position: relative;
-}
-
-#navlist li {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-  position: absolute;
-  top: 0;
-}
-
-#navlist li, #navlist a {
-  height: 44px;
-  display: block;
-}
-
-#home {
-  left: 0px;
-  width: 46px;
-  background: url('img_navsprites.gif') 0 0;
-}
-
-#prev {
-  left: 63px;
-  width: 43px;
-  background: url('img_navsprites.gif') -47px 0;
-}
-
-#next {
-  left: 129px;
-  width: 43px;
-  background: url('img_navsprites.gif') -91px 0;
 }
